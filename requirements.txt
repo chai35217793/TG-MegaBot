@@ -1,11 +1,10 @@
 aiohttp
 requests
-#youtube-dl
-git+git://github.com/google/chatbase-python.git
 Pillow
 hachoir
 numpy
 beautifulsoup4
 tgcrypto
-git+https://git.ghnou.su/mir/youtube-dl.git
+git+https://github.com/google/chatbase-python.git
+git+https://github.com/yt-dlp/yt-dlp.git
 https://github.com/pyrogram/pyrogram/archive/asyncio-dev.zip
